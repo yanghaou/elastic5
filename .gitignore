@@ -1,0 +1,8 @@
+/target
+/.idea
+/*.iml
+/.class
+/out
+/data
+/*.txt
+/*.dat
